@@ -73,5 +73,7 @@ The goal is to derive actionable insights to enhance customer engagement, optimi
       * Each product can belong to one category (N:1 between products and categories).
       * Each order item links to a single product (N:1 between order_items and products).
   - This structure supports flexible, scalable analytics by enabling detailed joins and aggregations across customers, orders, and products.
+
+
 ##📌Click to view/download:
 -<a href ="https://github.com/SathishRamachandran1975/E-COMMERCE-SQL-PROJECT/blob/main/E-commerce%20schema%20Diagram.pdf>SCHEMA DIAGRAM</a>
