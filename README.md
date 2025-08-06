@@ -43,6 +43,7 @@ The goal is to derive actionable insights to enhance customer engagement, optimi
 
 
 ## 🗃️SQL File Structure
+-<a href="https://github.com/SathishRamachandran1975/E-COMMERCE-SQL-PROJECT/blob/main/E-commerce%20SQL-Project.sql"> SQL FILE</a>
 1. Create Database & Tables
 2. Insert Sample Data
 3. Customer Purchase & LTV Queries
