@@ -53,3 +53,13 @@ The goal is to derive actionable insights to enhance customer engagement, optimi
    - customer_rfm_view
 6. Final Result Queries from Views
 
+## ⚙️Process Overview
+1. Design Schema → Built normalized tables for customers, products, orders, and order items.
+2. Insert Data → Added fictional sample data representing various customer activities.
+3. Run Queries → Executed aggregations, joins, groupings, and window functions.
+4. Create Views → Reusable logic for customer segmentation and RFM profiling.
+5. Generate Insights → Derived customer and product trends for decision-making.
+
+## 🧬Database Schema Diagram
+  - Here’s the ER diagram representing the database schema:
+##📌Click to view/download:
