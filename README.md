@@ -61,5 +61,17 @@ The goal is to derive actionable insights to enhance customer engagement, optimi
 5. Generate Insights → Derived customer and product trends for decision-making.
 
 ## 🧬Database Schema Diagram
-  - Here’s the ER diagram representing the database schema:
-###📌Click to view/download:
+  - The database schema is designed to reflect the core structure of an e-commerce business. It follows a normalized relational model and includes five main tables:
+      * customers – Stores customer details such as name, email, location, and signup date.
+      * categories – Contains product category information (e.g., Electronics, Clothing).
+      * products – Holds product details including name, category, and price.
+      * orders – Represents individual orders with customer references, dates, totals, and statuses.
+      * order_items – A line-item breakdown of each order, linking specific products to orders with quantities and prices.
+  - Relationships:
+      * One customer can place many orders (1:N between customers and orders).
+      * Each order can have multiple items (1:N between orders and order_items).
+      * Each product can belong to one category (N:1 between products and categories).
+      * Each order item links to a single product (N:1 between order_items and products).
+  - This structure supports flexible, scalable analytics by enabling detailed joins and aggregations across customers, orders, and products.
+##📌Click to view/download:
+-<a href ="https://github.com/SathishRamachandran1975/E-COMMERCE-SQL-PROJECT/blob/main/E-commerce%20schema%20Diagram.pdf>SCHEMA DIAGRAM</a>
