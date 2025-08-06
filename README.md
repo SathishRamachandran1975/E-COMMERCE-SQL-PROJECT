@@ -75,5 +75,5 @@ The goal is to derive actionable insights to enhance customer engagement, optimi
   - This structure supports flexible, scalable analytics by enabling detailed joins and aggregations across customers, orders, and products.
 
 
-##📌Click to view/download:
+## 📌Click to view/download:
 -<a href ="https://github.com/SathishRamachandran1975/E-COMMERCE-SQL-PROJECT/blob/main/E-commerce%20schema%20Diagram.pdf">SCHEMA DIAGRAM</a>
